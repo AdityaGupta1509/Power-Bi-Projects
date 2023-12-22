@@ -12,7 +12,7 @@ Welcome to my Power BI Projects Repository! Here you'll find a collection of my 
      - **Salary Insights:** Delve into salary information to gain a comprehensive understanding of the compensation landscape within the data industry.
      - **Responsive Design:** The dashboard is designed with a responsive layout, ensuring a seamless and consistent user experience across various devices, including desktops, tablets, and mobile phones.
      - **Feedback:** The project also tells about how the average working professional feel about their work.
-     - **About the Data:**This data has the survey of 630 professionals and was collected on October 2022.The data for the project was taken from GitHub and it was originally collected by AlexTheAnalyst.
+     - **About the Data:** This data has the survey of 630 professionals and was collected on October 2022.The data for the project was taken from GitHub and it was originally collected by AlexTheAnalyst.
 
 ## How to Use
 
