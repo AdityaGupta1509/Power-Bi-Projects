@@ -16,11 +16,7 @@ Welcome to my Power BI Projects Repository! Here you'll find a collection of my 
 
 ## How to Use
 
-Each project comes with its own set of instructions on how to use and customize the Power BI reports or dashboards. Follow the steps outlined in the respective project's README for a smooth experience.
-
-## Upcoming Projects
-
-Stay tuned for exciting new projects! Here's a sneak peek at what's coming next:
+Each project comes with its own set of files to use them download the folder and open the .pbix file in the folder to access the dashboard. To just access the dashboard you can download the .pbix file only but to see all the resources used in creating the dashboard easily you can download other files as well.
 
 ## Contributions
 
