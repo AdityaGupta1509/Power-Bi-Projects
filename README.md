@@ -5,14 +5,59 @@ Welcome to my Power BI Projects Repository! Here you'll find a collection of my 
 ## Current Projects
 
 ### 1. Data Professional Survey
-   - **Description:** This project is a comprehensive Data Professional Survey Dashboard developed using Microsoft Power BI. This project aims to provide insights into the ever-evolving landscape of data professionals, capturing key trends, preferences, and challenges within the data industry. 
+   - **Description:** The Data Professional Survey Dashboard is an interactive Power BI report that visualizes key insights from a survey of 630 data professionals across various roles, countries, and skill levels. This dashboard helps understand industry trends, salary distributions, job satisfaction, preferred programming languages, and career challenges in the data field. 
    - **Features:**
      - **Demographic Overview:** Gain a quick snapshot of the survey respondents with visually appealing demographic breakdowns, including age, gender, and geographic distribution.
      - **Skillset Analysis:** The dashboard breaks down technical skills, programming languages, and tools commonly used in the industry.
      - **Salary Insights:** Delve into salary information to gain a comprehensive understanding of the compensation landscape within the data industry.
      - **Responsive Design:** The dashboard is designed with a responsive layout, ensuring a seamless and consistent user experience across various devices, including desktops, tablets, and mobile phones.
      - **Feedback:** The project also tells about how the average working professional feel about their work.
-     - **About the Data:** This data has the survey of 630 professionals and was collected on October 2022.The data for the project was taken from GitHub and it was originally collected by AlexTheAnalyst.
+     - **Source of the Data:** This data was collected by "AlexTheAnalyst".
+
+### 2. HR Analytics Dashboard
+   - **Description:** The HR Analytics Dashboard is an interactive Power BI report designed to help HR professionals analyze employee data, track key workforce metrics, and make data-driven decisions. The dashboard provides insights into employee demographics, attrition rates, performance trends, and other critical HR factors. 
+   - **Features:**
+     - **Employee Demographics:** Age, gender, and department-wise employee distribution.
+     - **Attrition Analysis:** Number of employees leaving vs. staying, with reasons for attrition.
+     - **Performance Metrics:** Employee productivity, ratings, and growth trends.
+     - **Salary Distribution:** Salary analysis across job roles, experience levels, and gender.
+     - **Job Satisfaction & Work-Life Balance:** Employee feedback on job satisfaction and work-life balance.
+     - **Hiring & Retention Trends:** Patterns in hiring and attrition over time.
+     - **Source of the Data:** This data is taken from the YouTuber "Rishabh Mishra".
+
+### 3. Ecommerce Sales Dashboard
+   - **Description:** The Ecommerce Sales Dashboard is an interactive Power BI report designed to provide an in-depth analysis of an online store’s sales performance. It enables businesses to track profits, revenue, orders, and customer behavior across various product categories and locations. The dashboard helps in making data-driven decisions by identifying top-performing products, analyzing sales trends, and optimizing pricing strategies. 
+   - **Features:**
+     - **Sales & Profit Metrics:** Total revenue, profit, and average order value (AOV).
+     - **Sales by Category & Subcategory:** Breakdown of sales across different product categories (e.g., Clothing, Furniture, Electronics).
+     - **Monthly Profit Trends:** Profitability analysis across different months of the year.
+     - **Quantity Sold Analysis:** Distribution of product quantities across various categories.
+     - **Payment Mode Preferences:** Insights into customer payment preferences (COD, UPI, Credit/Debit Cards, EMI).
+     - **Top Customers & States:** Identifies high-paying customers and sales distribution by state.
+     - **Filtering Options:** Users can filter data by state, quarter, and product categories for deeper insights.
+     - **Source of the Data:** This data is taken from the YouTuber "Rishabh Mishra".
+
+### 4. Product Sales Dashboard
+   - **Description:** The Product Sales Dashboard is an interactive Power BI report that analyzes product performance based on sales trends, revenue, and customer demand. This is a sample dataset, of a company known as REC Corp LTD, consists of sales and revenue data for four products (P1, P2, P3, P4) over ten years. The dashboard is designed to help business leaders answer key questions about product performance, trends, and future sales estimates. It also assists the CEO in making data-driven decisions about discontinuing low-performing products and forecasting revenue for the upcoming year. 
+   - **Features:**
+     - **Sales Trends Over Time:** Monthly and yearly sales performance for all products.
+     - **Best-Selling Product Analysis:** Identifies the highest-selling product over the years.
+     - **Revenue Trends:** Tracks revenue generated by each product.
+     - **December 31st Sales Estimate:** Predicts sales if the company operated on this day.
+     - **Product Discontinuation Impact:** Analyzes potential setbacks from dropping a product.
+     - **Future Sales Prediction:** Provides an estimate for 2024 revenue.
+     - **Source of the Data:** This data is taken from the Kaggle.
+
+### 5. Pokemon Dashboard
+   - **Description:** The Pokémon Dashboard is an interactive Power BI report that analyzes various attributes and statistics of Pokémon. It helps users explore and compare different Pokémon based on types, stats, generation, and legendary status. This dashboard provides valuable insights for Pokémon trainers, gamers, and data analysts who want to understand patterns in Pokémon characteristics and performance. 
+   - **Features:**
+     - **Pokémon Distribution:** Breakdown by type, generation, and legendary status.
+     - **Stat Comparison:** Analyzing attack, defense, speed, HP, and other attributes.
+     - **Top & Bottom Pokémon:** Identifying the strongest and weakest Pokémon based on various parameters.
+     - **Legendary vs. Non-Legendary Analysis:** Comparing power levels and distribution.
+     - **Generation Trends:** Observing how Pokémon stats have evolved across generations.
+     - **Source of the Data:** This data is taken from Kaggle.
+
 
 ## How to Use
 
